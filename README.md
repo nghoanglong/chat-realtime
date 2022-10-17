@@ -1,4 +1,4 @@
-# IS220.N12.HTCL
+# Chat Realtime
 
 ## Install prerequisite software - Window 10
 
@@ -9,7 +9,7 @@
 
 ## Running Development Stage
 ```
-git clone https://github.com/nghoanglong/IS220.N12.HTCL.git
+https://github.com/nghoanglong/chat-realtime.git
 
 docker compose build
 
